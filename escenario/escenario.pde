@@ -9,7 +9,6 @@ void setup(){
 }
 void draw(){
   pantalla.escena();
-  //pantalla.abajo();
   pers.personaje();
   vol.secundario();
 
